@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Yeshtery/static/css/main.26501b9f.css",
-    "main.js": "/Yeshtery/static/js/main.74eb2325.js",
+    "main.js": "/Yeshtery/static/js/main.1d21c732.js",
     "static/css/624.edfa98f7.chunk.css": "/Yeshtery/static/css/624.edfa98f7.chunk.css",
     "static/js/624.8659f7a2.chunk.js": "/Yeshtery/static/js/624.8659f7a2.chunk.js",
     "static/css/808.81c9313f.chunk.css": "/Yeshtery/static/css/808.81c9313f.chunk.css",
@@ -20,7 +20,7 @@
     "static/media/slick.woff": "/Yeshtery/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Yeshtery/index.html",
     "main.26501b9f.css.map": "/Yeshtery/static/css/main.26501b9f.css.map",
-    "main.74eb2325.js.map": "/Yeshtery/static/js/main.74eb2325.js.map",
+    "main.1d21c732.js.map": "/Yeshtery/static/js/main.1d21c732.js.map",
     "624.edfa98f7.chunk.css.map": "/Yeshtery/static/css/624.edfa98f7.chunk.css.map",
     "624.8659f7a2.chunk.js.map": "/Yeshtery/static/js/624.8659f7a2.chunk.js.map",
     "808.81c9313f.chunk.css.map": "/Yeshtery/static/css/808.81c9313f.chunk.css.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.26501b9f.css",
-    "static/js/main.74eb2325.js"
+    "static/js/main.1d21c732.js"
   ]
 }

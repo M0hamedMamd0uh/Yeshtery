@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Yeshtery/static/css/main.26501b9f.css",
-    "main.js": "/Yeshtery/static/js/main.f6cd03c4.js",
+    "main.js": "/Yeshtery/static/js/main.74eb2325.js",
     "static/css/624.edfa98f7.chunk.css": "/Yeshtery/static/css/624.edfa98f7.chunk.css",
     "static/js/624.8659f7a2.chunk.js": "/Yeshtery/static/js/624.8659f7a2.chunk.js",
     "static/css/808.81c9313f.chunk.css": "/Yeshtery/static/css/808.81c9313f.chunk.css",
@@ -9,7 +9,7 @@
     "static/css/40.5354fa3d.chunk.css": "/Yeshtery/static/css/40.5354fa3d.chunk.css",
     "static/js/40.626afb15.chunk.js": "/Yeshtery/static/js/40.626afb15.chunk.js",
     "static/css/744.1a2d65a9.chunk.css": "/Yeshtery/static/css/744.1a2d65a9.chunk.css",
-    "static/js/744.5492e756.chunk.js": "/Yeshtery/static/js/744.5492e756.chunk.js",
+    "static/js/744.5117fc6a.chunk.js": "/Yeshtery/static/js/744.5117fc6a.chunk.js",
     "static/js/592.c0ee9680.chunk.js": "/Yeshtery/static/js/592.c0ee9680.chunk.js",
     "static/js/180.f95a82e3.chunk.js": "/Yeshtery/static/js/180.f95a82e3.chunk.js",
     "static/media/redColor.png": "/Yeshtery/static/media/redColor.7b266500a8fa287ad178.png",
@@ -20,7 +20,7 @@
     "static/media/slick.woff": "/Yeshtery/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Yeshtery/index.html",
     "main.26501b9f.css.map": "/Yeshtery/static/css/main.26501b9f.css.map",
-    "main.f6cd03c4.js.map": "/Yeshtery/static/js/main.f6cd03c4.js.map",
+    "main.74eb2325.js.map": "/Yeshtery/static/js/main.74eb2325.js.map",
     "624.edfa98f7.chunk.css.map": "/Yeshtery/static/css/624.edfa98f7.chunk.css.map",
     "624.8659f7a2.chunk.js.map": "/Yeshtery/static/js/624.8659f7a2.chunk.js.map",
     "808.81c9313f.chunk.css.map": "/Yeshtery/static/css/808.81c9313f.chunk.css.map",
@@ -28,12 +28,12 @@
     "40.5354fa3d.chunk.css.map": "/Yeshtery/static/css/40.5354fa3d.chunk.css.map",
     "40.626afb15.chunk.js.map": "/Yeshtery/static/js/40.626afb15.chunk.js.map",
     "744.1a2d65a9.chunk.css.map": "/Yeshtery/static/css/744.1a2d65a9.chunk.css.map",
-    "744.5492e756.chunk.js.map": "/Yeshtery/static/js/744.5492e756.chunk.js.map",
+    "744.5117fc6a.chunk.js.map": "/Yeshtery/static/js/744.5117fc6a.chunk.js.map",
     "592.c0ee9680.chunk.js.map": "/Yeshtery/static/js/592.c0ee9680.chunk.js.map",
     "180.f95a82e3.chunk.js.map": "/Yeshtery/static/js/180.f95a82e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26501b9f.css",
-    "static/js/main.f6cd03c4.js"
+    "static/js/main.74eb2325.js"
   ]
 }
